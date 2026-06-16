@@ -1,7 +1,7 @@
 import os
 
 # ==============================
-# Python File Manager App
+# Python File Manager App (APPVAULT)
 # ==============================
 
 
@@ -67,7 +67,7 @@ def main():
 
     while True:
 
-        print("\n========== FILE MANAGER ==========")
+        print("\n========== APPVAULT FILE MANAGER ==========")
         print("1. Create File")
         print("2. Read File")
         print("3. Write File")
